@@ -306,6 +306,19 @@ li{
 .nav-link{
     color: #629441;
 }
+.social-title{
+  color: #fff;
+  text-transform: uppercase;
+}
+.social-link li{
+    float: left;
+    padding: 10px;
+    color: #fff;
+}
+.social-link li a{
+    color: #fff;
+}
+
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
     .height-600{
