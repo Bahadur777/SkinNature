@@ -209,8 +209,7 @@ li{
 .contact-adress-details{
    
     text-align: center;
-    justify-content: center;
-    margin: 0 auto;
+    padding: 10px 0;
 }
 .rdpr{
     list-style: none;
@@ -318,7 +317,13 @@ li{
 .social-link li a{
     color: #fff;
 }
-
+.map-section{
+    margin: 20px 0;
+}
+.qu-list{
+    padding: 3px 0;
+    color: #629441;
+}
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
     .height-600{
