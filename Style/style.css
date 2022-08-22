@@ -324,6 +324,13 @@ li{
     padding: 3px 0;
     color: #629441;
 }
+.footer-logo-imag{
+    width: 200px;
+    padding: 10px 0;
+}
+.fml{
+    width: 100%;
+}
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
     .height-600{
